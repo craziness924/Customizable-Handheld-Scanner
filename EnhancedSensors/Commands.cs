@@ -13,7 +13,7 @@ namespace EnhancedScanner
 
         public string Description()
         {
-            return "controls the behavior of the Enhanced Handheld Scanner plugin";
+            return "controls the behavior of the Customizable Handheld Scanner plugin";
         }
 
         public bool Execute(string arguments, int SenderID)
